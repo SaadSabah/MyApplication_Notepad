@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application_Notepad</string>
+    <string name="create_a_note_title" />
+    <string name="create_a_note" />
+    <string name="save" />
+    <string name="cancel" />
+    <string name="delete" />
+    <string name="my_notes" />
+    <string name="add_note">Add Note</string>
+</resources>
